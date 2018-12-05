@@ -13,11 +13,10 @@ nickname: 昵称
 id: 主键
 title：标题
 content：内容
-creator_id: 创建者id
-creator_name: 创建者姓名
-creator_nickname: 创建者昵称
+user_id: 创建者id
 createTime: 创建时间
 updateTime: 更新时间
+category_id: 分类
 
 ```
 
