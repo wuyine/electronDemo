@@ -1,0 +1,9 @@
+node_modules 
+			#����node_modulesĿ¼�µ��ļ�
+dist 
+			#����distĿ¼�µ��ļ�������ŵ���ǰ�˴�������Դ�ļ�
+
+/.idea/
+/lib/
+
+/package-lock.json
